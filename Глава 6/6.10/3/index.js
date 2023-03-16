@@ -1,0 +1,1 @@
+alert('Ответ: undefined.')
